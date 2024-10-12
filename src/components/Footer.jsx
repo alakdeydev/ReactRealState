@@ -1,7 +1,7 @@
-import FooterWidgetFour from "./Footer/FooterWidgetFour";
-import FooterWidgetOne from "./Footer/FooterWidgetOne";
-import FooterWidgetThree from "./Footer/FooterWidgetThree";
-import FooterWidgetTwo from "./Footer/FooterWidgetTwo";
+import FooterWidgetFour from "./FooterWidgetFour";
+import FooterWidgetOne from "./FooterWidgetOne";
+import FooterWidgetThree from "./FooterWidgetThree";
+import FooterWidgetTwo from "./FooterWidgetTwo";
 
 export default function Footer() {
   return (

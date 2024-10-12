@@ -1,6 +1,6 @@
 import logo from "../assets/images/logo/logo.svg";
-import Links from "../components/navbar/Links";
-import Button from "./button/Button";
+import Links from "./Links";
+import Button from "./Button";
 
 export default function Header() {
   return (

@@ -1,4 +1,4 @@
-import PropertyCard from "./property/propertyCard";
+import PropertyCard from "./PropertyCard";
 
 export default function Available() {
   return (

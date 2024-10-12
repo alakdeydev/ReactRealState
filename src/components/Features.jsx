@@ -1,5 +1,4 @@
-import FeaturesCardwrap from "./features/FeaturesCardwrap";
-
+import FeaturesCardwrap from "./FeaturesCardwrap";
 
 export default function Features() {
   return (
@@ -23,8 +22,7 @@ export default function Features() {
             </div>
           </div>
           <div className="-mx-4 flex flex-wrap">
-            <FeaturesCardwrap/>
-           
+            <FeaturesCardwrap />
           </div>
         </div>
       </section>

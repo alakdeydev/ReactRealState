@@ -1,5 +1,5 @@
-import footerImg01 from "../../assets/images/blog/blog-footer-01.jpg"
-import footerImg02 from "../../assets/images/blog/blog-footer-02.jpg"
+import footerImg01 from "../assets/images/blog/blog-footer-01.jpg"
+import footerImg02 from "../assets/images/blog/blog-footer-02.jpg"
 
 export default function FooterWidgetFour(){
     return (

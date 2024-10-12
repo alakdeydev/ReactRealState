@@ -1,10 +1,8 @@
-
-import FacebookSvg from "../socialIcon/FacebookSvg";
-import InstagramSvg from "../socialIcon/InstagramSvg";
+import FacebookSvg from "./FacebookSvg";
+import InstagramSvg from "./InstagramSvg";
+import XSvg from "./XSvg";
 import { teamData } from "./teamData";
 import TeamSvg from "./teamSvg";
-import XSvg from "../socialIcon/XSvg";
-
 
 export default function TeamIteam() {
   const teamWidget = teamData.map((teamInfo) => (
@@ -29,22 +27,13 @@ export default function TeamIteam() {
             {teamInfo.position}
           </p>
           <div className="flex items-center justify-center gap-5">
-            <a
-              href="#"
-              className="text-dark-6 hover:text-primary"
-            >
+            <a href="#" className="text-dark-6 hover:text-primary">
               <FacebookSvg size={18} />
             </a>
-            <a
-              href="#"
-              className="text-dark-6 hover:text-primary"
-            >
+            <a href="#" className="text-dark-6 hover:text-primary">
               <XSvg size={18} />
             </a>
-            <a
-              href="#"
-              className="text-dark-6 hover:text-primary"
-            >
+            <a href="#" className="text-dark-6 hover:text-primary">
               <InstagramSvg size={18} />
             </a>
           </div>

@@ -1,6 +1,6 @@
-import FaqSvgBgOne from "./Faq/FagsSbgBgOne";
-import FaqCard from "./Faq/FaqCard";
-import FaqSvgBgTwo from "./Faq/FaqSbgBgTwo";
+import FaqSvgBgOne from "./FagsSbgBgOne";
+import FaqCard from "./FaqCard";
+import FaqSvgBgTwo from "./FaqSbgBgTwo";
 
 export default function Faq() {
   return (

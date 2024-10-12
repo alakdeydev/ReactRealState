@@ -1,13 +1,12 @@
 import Cardtext from "./Cardtesxt";
 import Cardtitle from "./Cardtitle";
-import FeaturesCard from "./FeaturesCard";
 import Featuresvgcomp from "./Featuresvgcom";
+import FeaturesCard from "./FeaturesCard";
 import FSvgIconFour from "./FSvgIconFour";
 // import Featuresvgcomp from "./Featuresvgcom";
 import FSvgIconOne from "./FSvgIconOne";
 import FSvgIconThree from "./FSvgIconThree";
 import FSvgIconTwo from "./FSvgIconTwo";
-
 
 export default function FeaturesCardwrap() {
   return (
