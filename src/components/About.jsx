@@ -1,6 +1,6 @@
 import aboutImg01 from '../assets/images/about/about-image-01.jpg'
 import aboutImg02 from '../assets/images/about/about-image-02.jpg'
-import AboutsvgOne from './about/Aboutsvgone';
+import AboutsvgOne from './AboutsvgOne';
 import AboutsvgThree from './about/AboutsvgThree';
 import AboutsvgTwo from './about/AboutsvgTwo';
 import Button from './button/Button';
